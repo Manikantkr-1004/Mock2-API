@@ -1,0 +1,13 @@
+{
+  "mani":[
+    {
+      "id":1,
+      "name":"ram"
+    },
+    {
+      "id":2,
+      "name":"sohan"
+    }
+  ],
+  "cart":[]
+}
