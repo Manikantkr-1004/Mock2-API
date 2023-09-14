@@ -1,13 +1,18 @@
 {
-  "mani":[
+  "dogs": [
     {
-      "id":1,
-      "name":"ram"
+      "id": 1,
+      "name": "Cherry",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Male"
     },
     {
-      "id":2,
-      "name":"sohan"
+      "id": 2,
+      "name": "Tommy",
+      "age": 3,
+      "place": "Banglore",
+      "gender": "Female"
     }
-  ],
-  "cart":[]
+  ]
 }
